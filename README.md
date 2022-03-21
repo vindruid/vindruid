@@ -1,4 +1,4 @@
-### Hi Pretty Smiling People 😄
+### Hi Pretty Shining People 😄
 
 ![Vindruid's GitHub stats](https://github-readme-stats.vercel.app/api?username=vindruid&count_private=true&show_icons=true&theme=solarized-light&hide=prs,issues,contribs)
 

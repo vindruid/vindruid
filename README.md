@@ -1,6 +1,6 @@
 ### Hi Pretty Smiling People 😄
 
-![Vindruid's GitHub stats](https://github-readme-stats.vercel.app/api?username=vindruid&count_private=true&show_icons=true&theme=solarized-light)
+![Vindruid's GitHub stats](https://github-readme-stats.vercel.app/api?username=vindruid&count_private=true&show_icons=true&theme=solarized-light&hide=prs,issues,contribs)
 
 <!--
 **vindruid/vindruid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
